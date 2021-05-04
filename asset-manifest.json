@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cena-vs-blog/static/css/main.6dd9756a.chunk.css",
+    "main.js": "/cena-vs-blog/static/js/main.cfd0a430.chunk.js",
+    "main.js.map": "/cena-vs-blog/static/js/main.cfd0a430.chunk.js.map",
+    "runtime-main.js": "/cena-vs-blog/static/js/runtime-main.cccd1ef8.js",
+    "runtime-main.js.map": "/cena-vs-blog/static/js/runtime-main.cccd1ef8.js.map",
+    "static/js/2.79606627.chunk.js": "/cena-vs-blog/static/js/2.79606627.chunk.js",
+    "static/js/2.79606627.chunk.js.map": "/cena-vs-blog/static/js/2.79606627.chunk.js.map",
+    "static/js/3.65593bf1.chunk.js": "/cena-vs-blog/static/js/3.65593bf1.chunk.js",
+    "static/js/3.65593bf1.chunk.js.map": "/cena-vs-blog/static/js/3.65593bf1.chunk.js.map",
+    "index.html": "/cena-vs-blog/index.html",
+    "static/css/main.6dd9756a.chunk.css.map": "/cena-vs-blog/static/css/main.6dd9756a.chunk.css.map",
+    "static/js/2.79606627.chunk.js.LICENSE.txt": "/cena-vs-blog/static/js/2.79606627.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cccd1ef8.js",
+    "static/js/2.79606627.chunk.js",
+    "static/css/main.6dd9756a.chunk.css",
+    "static/js/main.cfd0a430.chunk.js"
+  ]
+}
