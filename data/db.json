@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "Capture By Lucy",
+      "body": "Lucy is a photographer, a mom and creator of backdrops for photography usage. Visit her blog to read about her life, her family and if you'd like to work with her. All of her backdrops are photos that she herself has taken and then had printed.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo praesentium ratione inventore quae. Veniam, laborum. Quod iure tenetur non quas eaque nulla odit dignissimos vel, voluptates mollitia aut sequi amet minus qui assumenda expedita eos itaque saepe voluptatum atque. Repellendus eius quo ipsam deleniti quia, molestias odio neque labore alias nam velit non facilis nesciunt consectetur est ab libero doloribus accusantium! Quidem nulla labore eos consectetur repellat a sint beatae enim maiores, rem commodi tenetur voluptate ipsa dolor iste aperiam aspernatur pariatur cum rerum quisquam, architecto consequatur. Repellat totam ipsam, vero laboriosam mollitia eaque inventore, quos et cum suscipit ipsum.",
+      "author": "Cena Vs",
+      "id": 1
+    },
+    {
+      "title": "The Sartoralist",
+      "body": "Scott Schuman created this blog that is all about high-end fashion combined with real life. He's been featured in huge fashion magazines such as Vogue. Check out press, articles and even find books using this website.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo praesentium ratione inventore quae. Veniam, laborum. Quod iure tenetur non quas eaque nulla odit dignissimos vel, voluptates mollitia aut sequi amet minus qui assumenda expedita eos itaque saepe voluptatum atque. Repellendus eius quo ipsam deleniti quia, molestias odio neque labore alias nam velit non facilis nesciunt consectetur est ab libero doloribus accusantium! Quidem nulla labore eos consectetur repellat a sint beatae enim maiores, rem commodi tenetur voluptate ipsa dolor iste aperiam aspernatur pariatur cum rerum quisquam, architecto consequatur. Repellat totam ipsam, vero laboriosam mollitia eaque inventore, quos et cum suscipit ipsum.",
+      "author": "Saravana",
+      "id": 2
+    },
+    {
+      "title": "Abby Capalbo",
+      "body": "Abby Capalbo Styling is a minimalist blog focusing on entertaining guests, and family and lifestyle content. Abby has a history of work in advertising and an internship with HGTV. All of these have shaped her own blog and brand today.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo praesentium ratione inventore quae. Veniam, laborum. Quod iure tenetur non quas eaque nulla odit dignissimos vel, voluptates mollitia aut sequi amet minus qui assumenda expedita eos itaque saepe voluptatum atque. Repellendus eius quo ipsam deleniti quia, molestias odio neque labore alias nam velit non facilis nesciunt consectetur est ab libero doloribus accusantium! Quidem nulla labore eos consectetur repellat a sint beatae enim maiores, rem commodi tenetur voluptate ipsa dolor iste aperiam aspernatur pariatur cum rerum quisquam, architecto consequatur. Repellat totam ipsam, vero laboriosam mollitia eaque inventore, quos et cum suscipit ipsum.",
+      "author": "Jo",
+      "id": 3
+    },
+    {
+      "title": "Say Yes",
+      "body": "Say Yes is an award-winning blog created by Liz Stanley in 2006. Although it could be classified as a mom blog as well, since Liz is a mother of three, it goes beyond that, offering useful advice about other topics, including food, and travel.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo praesentium ratione inventore quae. Veniam, laborum. Quod iure tenetur non quas eaque nulla odit dignissimos vel, voluptates mollitia aut sequi amet minus qui assumenda expedita eos itaque saepe voluptatum atque. Repellendus eius quo ipsam deleniti quia, molestias odio neque labore alias nam velit non facilis nesciunt consectetur est ab libero doloribus accusantium! Quidem nulla labore eos consectetur repellat a sint beatae enim maiores, rem commodi tenetur voluptate ipsa dolor iste aperiam aspernatur pariatur cum rerum quisquam, architecto consequatur. Repellat totam ipsam, vero laboriosam mollitia eaque inventore, quos et cum suscipit ipsum.",
+      "author": "Cena Vs",
+      "id": 4
+    },
+    {
+      "title": " A Cup of Jo",
+      "body": "A weekend hobby for Joanna Goddard turned into a full-time job. She started A Cup of Jo in 2007 and became a superstar lifestyle blogger. In fact, the site is barely a personal blog anymore, as Jo now has a team of professional writers who share her interests, such as style, design, food, and motherhood.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo praesentium ratione inventore quae. Veniam, laborum. Quod iure tenetur non quas eaque nulla odit dignissimos vel, voluptates mollitia aut sequi amet minus qui assumenda expedita eos itaque saepe voluptatum atque. Repellendus eius quo ipsam deleniti quia, molestias odio neque labore alias nam velit non facilis nesciunt consectetur est ab libero doloribus accusantium! Quidem nulla labore eos consectetur repellat a sint beatae enim maiores, rem commodi tenetur voluptate ipsa dolor iste aperiam aspernatur pariatur cum rerum quisquam, architecto consequatur. Repellat totam ipsam, vero laboriosam mollitia eaque inventore, quos et cum suscipit ipsum.",
+      "author": "JO",
+      "id": 5
+    },
+    {
+      "title": "Smitten Kitchen",
+      "body": "Smitten Kitchen is an award-winning blog by Deb Perelman. The blog revolves around one place — Deb’s kitchen, where she experiments and comes up with unique recipes that she shares with the world. Her site has a nice feature called “Surprise me!” where a random recipe is suggested. Great for people wondering what to eat!.Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.",
+      "author": "Saravana",
+      "id": 6
+    },
+    {
+      "title": "Style & Error ",
+      "body": "Style & Error is a men’s fashion blog by Thomas Stubbs, a famous stylist, editor, and writer. Apart from his blog, he also works as a Fashion Editor with British GQ and is an Editor at Large for The Rake magazine. Also, Stubbs is the main man behind the styles of many male celebrities.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet mollitia repellat optio nam repudiandae, odio suscipit id nostrum ratione temporibus perspiciatis accusantium recusandae voluptatem labore a eaque repellendus atque nobis!",
+      "author": "Cena Vs",
+      "id": 7
+    }
+  ]
+}

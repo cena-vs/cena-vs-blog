@@ -1,0 +1,24 @@
+{
+    "tasks":[
+        {
+            "title":"Scrum Meeting",
+            "body":"Scrum meeting is a catch-all term that can describe different types of meetings held by Scrum teams. Examples of Scrum meetings include daily standups, sprint planning sessions, and sprint retrospectives",
+            "owner":"Cena Vs",
+            "id":1
+        },
+        {
+            "title":"Adhoc Testing",
+            "body":"Ad-Hoc testing is usually conducted by a tester who has a strong knowledge of the software under test, regarding what it does and how it works. This testing is done by randomly creating test cases through error guessing and executing them, without following any requirements for the test.",
+            "owner":"Saravana",
+            "id":2
+        },
+        {
+            "title":"Client Call",
+            "body":"Client calls are an integral and important part of how work gets coordinated and communication channels are kept open in IT teams. Client calls are fun when they are short and the tasks are on track and the client's expectations are met.",
+            "owner":"Cena Vs",
+            "id":3
+        }
+    ]
+}
+
+
